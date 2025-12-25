@@ -75,17 +75,17 @@
 
 Запуск Docker Compose:
 
-<img src="src/redis_run.png" width="400px" />
-<img src="src/dockerfile_run.png" width="400px" />
-<img src="src/web_run.png" width="400px" />
+<img src="src/redis_run.png"/>
+<img src="src/dockerfile_run.png"/>
+<img src="src/web_run.png"/>
 
 Стан контейнера в Docker:
 
-<img src="src/docker_run.png" width="400px" />
+<img src="src/docker_run.png"/>
 
 Сторінка з лічильником:
 
-<img src="src/counter_page.png" width="400px" />
+<img src="src/counter_page.png"/>
 
 ## ✅ Висновки
 
